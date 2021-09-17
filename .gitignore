@@ -1,0 +1,16 @@
+  
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+/out
+/src/main/resources/application.properties
+/src/main/resources/generator.properties
+/src/main/resources/generatordev.properties
